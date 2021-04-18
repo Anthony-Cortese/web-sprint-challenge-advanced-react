@@ -1,5 +1,5 @@
 import React from "react";
-import { render, screen, userEvent, fireEvent } from "@testing-library/react";
+import { render, screen, fireEvent } from "@testing-library/react";
 import CheckoutForm from "./CheckoutForm";
 import App from "../App";
 
